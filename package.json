@@ -1,0 +1,24 @@
+{
+  "name": "monadbot-testnet",
+  "version": "1.0.0",
+  "description": "monadbot-testnet",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bagusass/monadbot-testnet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}
